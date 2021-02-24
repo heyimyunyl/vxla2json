@@ -1,0 +1,16 @@
+{
+  "name": "lsdtotape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^9.1.0",
+    "xml-js": "^1.6.11"
+  }
+}
