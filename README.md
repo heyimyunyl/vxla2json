@@ -16,7 +16,8 @@ Once you're done, your converted files will be under maps/*codename*/ folder.
 # Notes
 
 1. This game does not have gold moves so please make your own.
-2. This game does not also have `isLineEnding` in lyrics so some lines might be broken since this script detects isLineEnding by checking if the next syllable starts uppercase. 
+2. This game does not also have `isLineEnding` in lyrics so some lines might be broken since this script detects isLineEnding by checking if the next syllable starts uppercase.
+3. Since this game uses kinect, converted moves0 contains head and left arm/leg movements. You can remove them to have better experience. 
 
 # License
 
